@@ -12,3 +12,8 @@ A lo largo de este proyecto se propone realizar la simulacion de un robot difere
 Del siguinete robot diferencial con dos ruedas actuadas
 
 ![image](https://github.com/SebastianMartinez19/Observador-inteligente/assets/106949729/1973a41b-5772-41f2-bb63-1f107548f61c)
+
+Se pueden obtener los siguintes parametros fisicos
+\begin{equation}
+x = 0
+\end{equation}
