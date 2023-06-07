@@ -13,7 +13,11 @@ Del siguinete robot diferencial con dos ruedas actuadas
 
 ![image](https://github.com/SebastianMartinez19/Observador-inteligente/assets/106949729/1973a41b-5772-41f2-bb63-1f107548f61c)
 
-Se pueden obtener los siguintes parametros fisicos
-\begin{equation}
-x = 0
-\end{equation}
+Se obtiene las siguientes ecuaciones.
+
+![image](https://github.com/SebastianMartinez19/Observador-inteligente/assets/106949729/b2ebc680-359e-49eb-97dc-5fe715516dc6)
+
+![image](https://github.com/SebastianMartinez19/Observador-inteligente/assets/106949729/1d517503-f08b-4b9a-a47e-15aca83ed9fe)
+
+
+
